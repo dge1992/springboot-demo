@@ -35,7 +35,7 @@
         <mybatis-plus-boot-starter>3.5.5</mybatis-plus-boot-starter>
         <zookeeper.version>3.5.5</zookeeper.version>
         <commons-lang3.version>3.9</commons-lang3.version>
-        <commons-collections.version>3.2.1</commons-collections.version>
+        <commons-collections.version>3.2.2</commons-collections.version>
         <guava-retrying.version>2.0.0</guava-retrying.version>
     </properties>
 
